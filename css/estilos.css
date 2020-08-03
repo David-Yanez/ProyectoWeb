@@ -1,0 +1,63 @@
+.containerDavid{
+   
+    margin: 40px 150px;
+    overflow: hidden;
+	background: white;
+    border: 1px solid #000;
+    border-radius: 10px;
+	padding: 10px;
+	
+}
+
+.containerDavid1{
+   
+    margin: 40px 150px;
+    overflow: hidden;
+	background: white;
+    border: 1px solid #000;
+    border-radius: 10px;
+	padding: 10px;
+	
+}
+html {
+	scroll-behavior: smooth;
+
+}
+
+.letra1{
+	color: green;
+}
+.letra2{
+	color:blue ;
+}
+.letra3{
+	color: red;
+}
+
+
+.ContainerPrincipal{
+
+	background: url(../img/hojas.jpg);
+	padding: 10px;
+	
+									  
+	}
+
+.ContainerPrincipal1{
+
+background: url(../img/hojas.jpg);
+padding: 10px;
+
+                                  
+}
+
+.ContainerPrincipal2{
+	
+	background: url(../img/cielo.jpg);
+	padding: 10px;
+}
+.ContainerPrincipal3{
+	
+	background: url(../img/rojo.jpg);
+	padding: 10px;
+}
